@@ -9,7 +9,7 @@ module.exports = {
       STRIPE_API_KEY: 'pk_test_51K9YmiSCa2EMkQEEau9SaEgbO7c33p3Noi4P9vTintHWi1PK2z8HHCvyIdpTwN9HVn0ceKB16ZTLeatGRlt2WuOw00HfLyufRd',
       STRIPE_SECRET_KEY: 'sk_test_51K9YmiSCa2EMkQEEtHHQ971MDsYs1yFQQXsK41CaLkFav91TAduKP127JdhILeJaBFZ5d1Yues017HXRaXFAeLkh0062o57kGc',
        
-      STRIPE_WEBHOOK_SECRET: 'whsec_P3PBGLKKnorwRJddMIQTF2kN3davyZyg',
+      STRIPE_WEBHOOK_SECRET: 'whsec_tDby2G5UrOwC5JTIh7P08vv09og6NBkV',
       SMTP_HOST: 'smtp.mailtrap.io',
       SMTP_PORT: 2525,
       SMTP_USER: "3d54b6a66f2b9e",
